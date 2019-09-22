@@ -22,10 +22,15 @@ In 2016, working as deputy chief engineer of a construction company, I and anoth
 + **VSCode, Sublime Text 3**
 + **Chrome Dev Tools, ESLint, Prettier**
 + **Adobe Photoshop**
+
 ## Сode examples on Github by *[reference](https://dsv-sergey.github.io/)*
+
 ## Experience:
+
 ***There is experience on educational projects, all the developments on my public account on github pages [https://dsv-sergey.github.io](https://dsv-sergey.github.io/)***
+
 ## Education:
+
 2016
 : * **Designing web pages for programmers**
 *High-Tech Park Education Center, Front-end Developer*
@@ -39,4 +44,5 @@ In 2016, working as deputy chief engineer of a construction company, I and anoth
 2019
 : * **JavaScript development Q1-2019**
 *The Rolling Scopes School(EPAM), Front-end Developer*
+
 ## English level: A2+
