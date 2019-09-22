@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://dsv-sergey.github.io/rsschool-cv/cv - My CV
