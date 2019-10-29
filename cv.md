@@ -31,18 +31,18 @@ In 2016, working as deputy chief engineer of a construction company, I and anoth
 
 ## Education:
 
-2016
-: * **Designing web pages for programmers**
+2016:
+* **Designing web pages for programmers**
 *High-Tech Park Education Center, Front-end Developer*
 
-2018
-: * **Website development using HTML, CSS and JavaScript**
+2018:
+* **Website development using HTML, CSS and JavaScript**
 *High-Tech Park Education Center, Front-end Developer*
-: * **Express English Course Pre-Intermediate (A2 +)**
+* **Express English Course Pre-Intermediate (A2 +)**
 *Streamline, English*
 
-2019
-: * **JavaScript development Q1-2019**
+2019:
+* **JavaScript development Q1-2019**
 *The Rolling Scopes School(EPAM), Front-end Developer*
 
 ## English level: A2+
